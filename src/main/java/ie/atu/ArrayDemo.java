@@ -1,6 +1,5 @@
 package ie.atu;
 
-
 public class ArrayDemo {
     public static void outputElements(int[] x){
         for(int i=0;i<10;i++){
@@ -14,6 +13,9 @@ public class ArrayDemo {
         array = new int[10];
 
         outputElements(array);
+
+
+
 
     }
 }
